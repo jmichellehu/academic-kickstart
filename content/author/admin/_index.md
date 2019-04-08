@@ -84,6 +84,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
+Michelle Hu is a graduate student in the Hydrology and Hydrodynamics Program in Civil and Environmental Engineering at the University of Washington.  Her current research interests focus on seasonal snow as a water resource.  She is a member of the Shean Lab, working with Dr. David Shean to develop methods of cryosphere observation and terrain analysis using remote sensing, machine learning, and high-performance computing techniques.
+
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.  -->
