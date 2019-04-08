@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Civil and Environmental Engineering"
   institution = "University of Washington"
-  year = Present
+  year = 2022
 
 [[education.courses]]
   course = "MS in Water Resources Science"
