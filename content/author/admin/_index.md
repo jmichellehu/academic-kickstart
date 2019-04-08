@@ -86,4 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Michelle Hu is a graduate student in the Hydrology and Hydrodynamics Program in Civil and Environmental Engineering at the University of Washington.  Her current research interests focus on remote sensing of seasonal snow using machine learning and high-performance computing techniques.  She is a member of the Shean Lab, working with Dr. David Shean to develop methods of cryosphere observation and terrain analysis.
+Michelle Hu is a graduate student in the Hydrology and Hydrodynamics Program in Civil and Environmental Engineering at the University of Washington.  Her current research interests focus on remote sensing of seasonal snow using machine learning and high-performance computing techniques.  She is a member of the Shean Lab, working with [Dr. David Shean](https://dshean.github.io/) to develop methods of cryosphere observation and terrain analysis.
