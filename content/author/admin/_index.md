@@ -16,7 +16,7 @@ role = "PhD student"
 organizations = [ { name = "Civil and Environmental Engineering", url = "https://www.ce.washington.edu/" }, { name = "University of Washington", url = "https://www.uw.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Michelle Hu is a graduate student in the Hydrology and Hydrodynamics Program in Civil and Environmental Engineering at the University of Washington.  Her current research interests focus on seasonal snow as a water resource.  She is a member of the Shean Lab, working with Dr. David Shean to develop methods of cryosphere observation and terrain analysis using remote sensing, machine learning, and high-performance computing techniques."  
+bio = "Michelle Hu is a PhD student at the University of Washington studying seasonal snow and remote sensing in the Hydrology and Hydrodynamics Program"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
